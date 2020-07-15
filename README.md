@@ -8,11 +8,9 @@
 
 This is a single page company website for a business called Tea Cozy. It's a project from the Codecademy web development track. I was given a design spec and a handful of image files and have created and styled this webpage from scratch.
 
-The design spec can be viewed inside the github repository image folder:
+Please visit [the design spec](https://github.com/chriskorsak/tea-cozy/blob/master/images/img-tea-cozy-redline.jpg) to see the design reference I followed while creating this page.
 
-img-tea-cozy-redline.jpg
-
-Please visit: [Tea Cozy](https://github.io/chriskorsak/tea-cozy) to see the website.
+Please visit [the Tea Cozy website](https://chriskorsak.github.io/tea-cozy/) to see the live site on github pages.
 
 ## Technologies Used
 
