@@ -60,3 +60,18 @@ main {
 #missionBanner{
   background-color: black;
 }
+#featuredTea {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#featuredTea img {
+  width: 300px;
+  height: 200px;
+}
+
+figure {
+  margin: 10px;
+}
