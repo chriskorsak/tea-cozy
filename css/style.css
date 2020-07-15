@@ -27,6 +27,7 @@ header {
   border-bottom: 1px solid seashell;
   background-color: black;
   z-index: 1;
+  opacity: 1;
 }
 
 header img {
@@ -84,11 +85,6 @@ figure {
   background-image: url('../images/img-locations-background.jpg');
 }
 
-#locations h2 {
-  padding: 30px 0px 0px 0px;
-  margin: 0px;
-}
-
 #addressContainer {
   display: flex;
   justify-content: center;
@@ -103,4 +99,9 @@ figure {
   flex-direction: column;
   justify-content: center;
   flex-basis: 280px;
+}
+
+#copyright {
+  text-align: left;
+  margin-left: 10px;
 }
